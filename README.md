@@ -26,4 +26,7 @@ The company wants to analyze:
 
 📄 Full project file attached in this repository.
 
+https://github.com/Tausif007-DA/sales-operations-performance-analysis-sql-power-bi/edit/main/README.md
+
 Author: Tausif Raza
+
