@@ -1,7 +1,7 @@
-# sales-operations-performance-analysis-sql-power-bi
+# sales-operations-Revenue-performance-analysis-sql-power-bi
 
 
-# 📊 Sales & Operations Performance Analysis (SQL Project)
+# 📊 Revenue and Team Performance Analysis (SQL Project)
 
 ## 🧩 Business Problem
 The company wants to analyze:
