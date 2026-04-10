@@ -28,6 +28,11 @@ The company wants to analyze:
 
 https://github.com/Tausif007-DA/sales-operations-performance-analysis-sql-power-bi/edit/main/README.md
 
+## 📊 Project Dashboard
+![Sales Operations Dashboard](dashboard.png)
+
+---
+
  dashboard link
  
 https://github.com/Tausif007-DA/sales-operations-performance-analysis-sql-power-bi/blob/main/Screenshot%202026-02-28%20153142.png
